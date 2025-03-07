@@ -1,0 +1,4 @@
+Create (Add new contact)
+Read (Get all contacts / Search by name)
+Update (Modify contact details)
+Delete (Remove contact)
